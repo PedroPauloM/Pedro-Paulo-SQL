@@ -1,2 +1,3 @@
-# RockbusterSQL
-Um projeto de análise de dados usando PostgreSQL para analisar dados de uma locadora de filmes fictícia, Rockbuster Stealth.
+## RockbusterSQL
+A data analysis project using PostgreSQL to analyze data from a fictional movie rental company, Rockbuster Stealth.
+# Objective 
